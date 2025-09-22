@@ -84,8 +84,8 @@ def get_stable_pattern(track_id, new_text):
 ├── Number_Plate_Detection_Fine_Tuning.ipynb # Model training script
 ├── license_plate_best.pt                  # Fine-tuned YOLO11 model (best weights)
 ├── license_plate_last.pt                  # Fine-tuned YOLO11 model (last weights)
-├── traffic_highway.mp4                    # Input video sample
-├── traffic_highway_new.mp4                # Output video with OCR
+├── input_video.mp4                        # Input video sample
+├── output_vide.mp4                        # Output video with OCR
 └── README.md                              # This file
 ```
 

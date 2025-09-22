@@ -6,11 +6,12 @@ A license plate detection and recognition system using YOLO11 and EasyOCR with a
 
 <table>
   <tr>
-    <td align="center"><b>Demo Example</b></td>
+    <td align="center"><b>Example 1</b></td>
+    <td align="center"><b>Example 2</b></td>
   </tr>
   <tr>
-    <td><img src="Demo_Example_1.gif" width="300"/></td>
-    <td><img src="Demo_Example_2.gif" width="300"/></td>
+    <td><img src="Demo_Example_1.gif" width="400"/></td>
+    <td><img src="Demo_Example_2.gif" width="400"/></td>
   </tr>
 </table>
 
